@@ -1,5 +1,7 @@
 # Sales-Performance-Data-Visualiation
+
 This project analyses the sales performance in the shipping industry, mainly focusing on data visualization.
+
 Main software used: Tableau
 
 1. Sales Performance Based on Category
